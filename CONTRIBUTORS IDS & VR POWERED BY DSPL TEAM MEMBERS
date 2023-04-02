@@ -1,0 +1,333 @@
+WEBSITE POWERED BY DSPL ~MR UDIT JAIN
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DATA SOFTWARE PVT LTD</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>DSPL MEMBERS</h1>
+  <h2>INDIAN DEVELOPMENT SCHOOL & VIDYARTHI RECORDS POWERED BY DSPL</h2>
+
+  <img src="C:\Users\MRUDI\Downloads\SCHOOL LOGO 2.jpg" alt="IDS POWERED BY DSPL">
+
+  <img src="C:\Users\MRUDI\Downloads\STUDENT LOGO.jpg" alt="IDS POWERED BY DSPL">
+
+  
+  <div class="team">
+    <div class="member" data-name="MR RISHI" data-position="Over-all, the Indian development school & Vidyarthi records is a fantastic tool that will undoubtedly improve the efficiency and effectiveness of school operations. The attention to detail and thoughtful design make it a valuable asset to any educational institution. Great work! 
+
+    POWERED BY DSPL     ~ MR UDIT JAIN">
+      <img src="C:\Users\MRUDI\Downloads\RII.jpg" alt="RISHI JAIN">
+      <div class="overlay">
+        <h3>MR UDIT JAIN </h3>
+        <p>BACKEND</p>
+      </div>
+    </div>
+    
+    <div class="member" data-name="MISS PRIYA" data-position="Hello I am PRIYA,
+    When I started to do this project I didn't know anything about the project like, how to make project, how to implement it etc. But I gain lot of experience because of DSPL. My leadership skills are get improved. All the team members are really supportive. I learnt a lot of things during this project. At last, from zero experienced person to backbone of backend😅 it's really a great experience in my life☺.">
+      <img src="C:\Users\MRUDI\Downloads\PRIYA2.jpg " alt="PRIYA">
+      <div class="overlay">
+        <h3>PRIYA</h3>
+        <p>PRIYA</p>
+      </div>
+    </div>
+    
+    <div class="member" data-name="MR SHUBHAM" data-position="first of all DSPL is a best platform where we can work in a team and improve our skills .
+    it's a great club where emerging students can grow up  with their work and sharp their skills ...
+    according to my experience in DSPL every member is very kind and sympathetic , every new  employee get respect like the older ones ... and alFocused to their work ...
+    i fell very honoured when I got a chance to work as a research memeber of this project 
+    I learnt lot of things how to handle the situation how to analyse the data how to write them in my own language i just got the chance and I personally feel that I had just boosted my skills 
+    Looking forward to work with them in future
+    thankyou ❤">
+      <img src="C:\Users\MRUDI\Videos\Captures\shubham.jpg" alt="SHUBHAM">
+      <div class="overlay">
+        <h3>SHUBHAM</h3>
+        <p>SHUBHAM</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="member" data-name="MISS VAISHNAVI" data-position="Im  Vaishnavi Sawant from backend team....
+  First of alI im thankful to RISHI JAIN  as he gives me opportunity to do work with DSPL.
+  I had gained so much knowledge from this project. I cant even don't know about that work but all the members of team are very supportive they took care of all of freshers in this task. I learnt the importance and unity of team work  from this project. It also improves my leadership quality . Now As a backend member i am doing great work with all team . yahh sometimes i get sicked  but all members .but our backend team taked care of me in this too. So at last i have got such a great experience and opportunity. Thanks to all.!!!">
+    <img src="C:\Users\MRUDI\Downloads\vaishnavi2.jpg" alt="VAISHNAVI">
+    <div class="overlay">
+      <h3>VAISHNAVI</h3>
+      <p>VAISHNAVI</p>
+    </div>
+  </div>
+</div>
+
+<div class="member" data-name="MISS AASHI" data-position="To Be Honest, DSPL has taught me various things which are very fruitful to me. I saw many polite peoples working there inDSPL. It was my first ever experience, working with this group and I really enjoyed it.
+This was definitely the best project and a very good platform. 
+Thankyou🙂
+AASHI TIWARI">
+    <img src="C:\Users\MRUDI\Downloads\ASHI.jpg" alt="VAISHNAVI">
+    <div class="overlay">
+      <h3>AASHI</h3>
+      <p>AASHI</p>
+    </div>
+  </div>
+</div>
+
+<div class="member" data-name="MISS KHUSHI JAIN" data-position="Myself khushi Rapariya my experience during this project was amazing it help me to learn a lot i explored new things over this period of time....it was very joyfull and satisfying experience also looking forward to explore lot of projects">
+    <img src="C:\Users\MRUDI\Downloads\khushijain2.jpg" alt="KHUSHI">
+    <div class="overlay">
+      <h3>KHUSHI</h3>
+      <p>KHUSHI</p>
+    </div>
+  </div>
+</div>
+
+<div class="member" data-name="MR YASH" data-position="first of all DSPL is a best platform where we can work in a team and improve our skills .
+it's a great club where emerging students can grow up  with their work and sharp their skills ...
+according to my experience in DSPL every member is very kind and sympathetic , every new  employee get respect like the older ones ... and also the members of DSPL is hardworking and Focused to their work ...
+i fell very honoured when i do some work for our  project , get appriciattion from every members ...
+In every aspect DSPL is a great platform where you can learn new things at every moment.
+thankyou ❤">
+  <img src="C:\Users\MRUDI\Downloads\YASH.jpg" alt="DSPL">
+  <div class="overlay">
+    <h3>YASH TIWARI </h3>
+    <p>YASH</p>
+  </div>
+</div>
+</div>
+
+
+<div class="member" data-name="MISS ANJALI" data-position="I'm glad to be the part of DSPL (data software private Ltd. ) . It's amazing to work with DSPL members , all the members are polite help us to resolve problems, give suggestions. Working on projects give me various knowledge that are very important for  working on future projects. 
+Overall it was great experience for me and it will drive me for further works. 
+~ Anjali jain">
+    <img src="C:\Users\MRUDI\Downloads\anjali.jpg" alt="ANJALI">
+    <div class="overlay">
+      <h3>ANJALI</h3>
+      <p>ANJALI</p>
+    </div>
+  </div>
+</div>
+
+<div class="member" data-name="MISS TANU" data-position="Working experience with dspl was immense good as it gave so much of learning and a very new experience, team members were helpful and cooperative.It has been an opportunity for the emerging students to learn new things ,develop skills ,which is gona so fruitful for their future.And I really enjoyed and learned new things from this platform.
+Thankyou 😊
+~TANUPRIYA JAIN">
+  <img src="C:\Users\MRUDI\Downloads\TANUU.jpg" alt="TANU">
+  <div class="overlay">
+    <h3>TANU</h3>
+    <p>TANU</p>
+  </div>
+</div>
+</div>
+
+<div class="member" data-name="MISS SWETA" data-position="I feel very blessed to be a part of DSPL( Data Software pvt ltd.) .All the team members are enough  supportive and the ambience of work is also fine. I had started working here with less skills and improved alot till now and hope to be a part of DSPl in future as well.
+
+Sweta Agrawal">
+  <img src="C:\Users\MRUDI\Downloads\SWETA.jpg" alt="SWETA">
+  <div class="overlay">
+    <h3>SWETA</h3>
+    <p>SWETA</p>
+  </div>
+</div>
+</div>
+
+<div class="member" data-name="MISS HARSHDA" data-position="Hello I am Harshada Virkar,
+When I  started to this project I didn't know anything about the project like,how to make project, how to implement it etc. But I got lot of experience because only of DSPL. In this project I was in Research & Frontend part.I was not knowing how to do work in Research & Frontend but, because of my team members I have completed my work.  All the team members are really supported me. And also I have learnt lot of things during this project. It was my first ever experience, working with this group & I really enjoy it. Thank you">
+  <img src="C:\Users\MRUDI\Downloads\HARSHDA3.jpg" alt="HARSHDA">
+  <div class="overlay">
+    <h3>HARSHDA</h3>
+    <p>HARSHDA</p>
+  </div>
+</div>
+</div>
+
+<div class="member" data-name="MISS SHRADDHA" data-position="Dspl is a very good platform. Here I developed my skills .The team members here are very helpful and I really enjoyed working with them. and I got to learn many new things and my experience with dspl was very good.                                                   Thankyou                                                                SHRADDHA SAHU">
+  <img src="C:\Users\MRUDI\Downloads\SHARD.jpg" alt="SHRADDHA">
+  <div class="overlay">
+    <h3>SHRADDHA</h3>
+    <p>SHRADDHA</p>
+  </div>
+</div>
+</div>
+
+
+<div class="member" data-name="MISS MINAKSHI" data-position="Hello I am Minakshi,
+When I started to do this project I didn't know anything about the project like, how to make project, how to implement it etc.Because this is my 1st Project ,But I gain lot of experience because of DSPL. My leadership skills are get improved. All the team members are really supportive. I learnt a lot of things during this project. At last, from zero experienced person to backbone of Graphics  it's really a great experience in my life☺">
+  <img src="C:\Users\MRUDI\Downloads\minakshi.jpg" alt="MINAKSHI">
+  <div class="overlay">
+    <h3>MINAKSHI</h3>
+    <p>MINAKSHI</p>
+  </div>
+</div>
+</div>
+
+<div class="member" data-name="MISS KHUSHI" data-position="Hello! 
+I'm khushi Kurchaniya.. i join the dspl group from where i learn many things. Before this i have no Idea what thing happens when you do some project with team, when you do Thank you  DSPL khushikurchaniya">
+  <img src="C:\Users\MRUDI\Downloads\khushikurchaniya.jpg" alt="KHUSHI">
+  <div class="overlay">
+    <h3>KHUSHI KURCHANIYA</h3>
+    <p>KHUSHI</p>
+  </div>
+</div>
+</div>
+
+<div class="member" data-name="MR RAJIV" data-position="DSPL
+As a member of the project team ,I contributed to the development and implementation of various initiatives .As a research member in the project I was responsible for conducting research and analysis to identify user requirements and determine the functional specifications of the system.
+I collaborated with other team members to ensure that the system Mets the needs of its people.I identify project's goals and objectives , developping plans and strategies and executing tasks to meet project milestones.I also conducted research , analysed data , and provided feedback to improve project outcomes.
+I regularly communicated
+With team members to ensure project requirements and work is completed on time.DSPL
+Is a best platform where we can work in a team and improve our skills.
+Every single member brought something different to the table and appreciate that.we are lucky to have a strong team and I am grateful for you all !">
+  <img src="C:\Users\MRUDI\Downloads\rajiv.jpg" alt="RAJIV">
+  <div class="overlay">
+    <h3>RAJIV</h3>
+    <p>RAJIV</p>
+  </div>
+</div>
+</div>
+
+<div class="member" data-name="MISS VAISHNAVI SHINDE" data-position="Hello I am Vaishnavi Shinde,
+when I started to this project I didn't know anything about the project like, how to make project how to implement it,
+etc. But I got lot of experience because only of DSPL. In this project I was in graphics part. I was not knowing how to do work in this graphics but, because of my team members I have completed my work. All the team members are really supported me and also I have learn lot of things during this project it was my first ever experience working with this group and I really enjoyed it. 
+Thank you😊😊">
+  <img src="C:\Users\MRUDI\Downloads\vaishnavishinde.jpg" alt="VAISHNAVI SHINDE">
+  <div class="overlay">
+    <h3>VAISHNAVI SHINDE</h3>
+    <p>VAISHNAVI</p>
+  </div>
+</div>
+</div>
+
+<div class="member" data-name="MR RITIK" data-position="DSPL
+As a member of the project team ,I contributed to the development and implementation of various initiatives .As a research member in the project I was responsible for conducting research and analysis to identify user requirements and determine the functional specifications of the system.
+I collaborated with other team members to ensure that the system Mets the needs of its people.I identify project's goals and objectives , developping plans and strategies and executing tasks to meet project milestones.I also conducted research , analysed data , and provided feedback to improve project outcomes.
+I regularly communicated
+With team members to ensure project requirements and work is completed on time.DSPL
+Is a best platform where we can work in a team and improve our skills.
+Every single member brought something different to the table and appreciate that.we are lucky to have a strong team and I am grateful for you all Thankyou Ritik">
+  <img src="C:\Users\MRUDI\Downloads\ritik.jpg" alt="RITIK">
+  <div class="overlay">
+    <h3>RITIK</h3>
+    <p>RITIK</p>
+  </div>
+</div>
+</div>
+
+
+<div class="member" data-name="MISS PRETI" data-position="Hello I am kamble priti .when I started to do this project I didn't  know anything about the project like . how to make project. how-to implement it etc but I got  lot of  experiencebecause only of DSPL in this project. I was in frontend part.. I was not knowing how to do work in this frontend but because of my team members. I have completed my work.all the team members. are really  supported me .and also I have learn lot of things during this project. it was my first ever experience working with this group. and I really enjoy it , thank you.....!!">
+  <img src="C:\Users\MRUDI\Downloads\preti.jpg" alt="PRETI">
+  <div class="overlay">
+    <h3>PRETI</h3>
+    <p>PRETI</p>
+  </div>
+</div>
+</div>
+
+
+<div class="member" data-name="MISS RASHMI" data-position="I am quite glad to be a part of DSPL(data software pvt. Ltd.) . I got a lot of experience here and able to grow my confidence and skill as well. All members are very supportive and helpful. It's a great platform to improve your skills. And of course will be happy to be a part of DSPL in future again. 
+
+Rashmi sanakriti">
+  <img src="C:\Users\MRUDI\Downloads\RASHMI.jpg" alt="RASHMI">
+  <div class="overlay">
+    <h3>RASHMI</h3>
+    <p>RASHMI</p>
+  </div>
+</div>
+</div>
+
+<div class="member" data-name="MISS MANSI" data-position="Hi I am Mansi,
+I felt very grateful to being a part of DSPL. I learnt a lot of things here. I am from the graphics team, all the members are very helpful. My imagination power got improved because of DSPL. Overall it's the best experience of my life.">
+  <img src="C:\Users\MRUDI\Downloads\mansi.jpg" alt="MANSI">
+  <div class="overlay">
+    <h3>MANSI</h3>
+    <p>MANSI</p>
+  </div>
+</div>
+</div>
+
+<div class="member" data-name="POWERED BY" data-position="DSPL">
+  
+  <img src="C:\Users\MRUDI\Downloads\STUDENT LOGO.jpg" alt="DSPL">
+  <div class="overlay">
+    <h3>DSPL BACKEND</h3>
+    <p>DSPL</p>
+  </div>
+</div>
+</div>
+
+ 
+  <script src="script.js"></script>
+</body>
+</html>
+
+<style>
+.team {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 120vh;
+}
+
+.member {
+  position: relative;
+  margin: 100px;
+  overflow: hidden;
+}
+
+.member img {
+  display: block;
+  width: 400px;
+  height: 1000px;
+  object-fit: cover;
+}
+
+.overlay {
+  position: absolute;
+  bottom: -100%;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.7);
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  transition: all 0.3s ease-in-out;
+}
+
+.overlay h3 {
+  font-size: 24px;
+  margin-bottom: 50px;
+}
+
+.overlay p {
+  font-size: 18px;
+}
+
+.member:hover .overlay {
+  bottom: 0;
+}
+
+
+</style>
+
+<script>
+    
+    const members = document.querySelectorAll('.member');
+
+    members.forEach(member => {
+      const name = member.dataset.name;
+      const position = member.dataset.position;
+      
+      const overlay = member.querySelector('.overlay');
+      overlay.innerHTML = `
+        <h3>${name}</h3>
+        <p>${position}</p>
+      `;
+    });
+    
+</script>
+
+WEBSITE POWERED BY DATA SOFTWARE PVT LTD ~MR UDIT JAIN 
